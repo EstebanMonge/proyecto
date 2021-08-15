@@ -1,4 +1,0 @@
-#Sun Aug 15 11:53:32 CST 2021
-base.0=/home/emonge/StudioProjects/proyecto/build/app/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
-path.0=classes.dex
